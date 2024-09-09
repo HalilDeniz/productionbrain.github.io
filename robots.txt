@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /404.html
+
+Sitemap: https://productionbrains.com/sitemap_index.xml
